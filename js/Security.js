@@ -14,7 +14,7 @@ class Security {
       
       
       display(){
-        this.title.html("Treause Hunt");
+        this.title.html("Treasure Hunt");
         this.title.position(450,20);
    
         
